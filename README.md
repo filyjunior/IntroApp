@@ -1,2 +1,3 @@
 # IntroApp
-IntroApp is a sample Xamarin app. Contains IntroPage and ConditionsPage.
+IntroApp is a sample Xamarin app. Contains two pages: 
+IntroPage and ConditionsPage.
